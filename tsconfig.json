@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "module": "es2015",
+        "module": "nodenext",
         "target": "es2015",
         "strict": true,
         "outDir": "dist/",
